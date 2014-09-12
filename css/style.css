@@ -21,7 +21,7 @@ p {margin:5px 0;}
 img.icon {float:left;padding:5px 10px 0 0;}
 img.small_icon {float:right;padding:5px;border:0;}
 
-.credit {
+.credit a {
 color: #404040;
 }
 
