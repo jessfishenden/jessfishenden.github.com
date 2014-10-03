@@ -23,21 +23,102 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20141003T152442Z
-UID:20141003T152442Z-1278538991@marudot.com
-DTSTART;TZID="Europe/London":20141112T160000
-DTEND;TZID="Europe/London":20141112T173000
-SUMMARY:Another Film
-DESCRIPTION:Also good
-LOCATION:Hyde Park Picture House
+DTSTAMP:20141003T190312Z
+UID:20141003T190312Z-627568457@marudot.com
+DTSTART;TZID="Europe/London":20141009T110000
+DTEND;TZID="Europe/London":20141009T123500
+SUMMARY:Appleseed Alpha
+DESCRIPTION:Based on the comic book by the creator of Ghost in the Shell and from the director of the original Appleseed anime movie comes the intense post-apocalyptic prequel. Left to survive in a post-World War society\, two mercenary soldiers – Deunan and her cyborg partner Briareos – are sent on a mission on the outskirts of their war-torn city. During the operation\, they run into Iris and Olson\, two citizens from the utopian city of Olympus\, who might have a way to save the world but the ruthless Talos and the scheming warlord Two Horns have their own plans.\n\nCountries\n    Japan\, \n    USA\nDirector:\n    Shinji Aramaki\n\nYear:\n    2014\nRunning Time:\n    93 mins\n\nShowing:\n    Thu 9th Oct\, 2014\, 11:00 @ Leeds Town Hall - Victoria Hall\n    Sun 9th Nov\, 2014\, 11:00 @ Leeds Town Hall - Victoria Hall\n\nhttp://www.leedsfilm.com/films/appleseed-alpha/
+LOCATION:Victoria Hall\, Leeds Town Hall\, The Headrow\, Leeds\, LS1 3AD
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20141003T152442Z
-UID:20141003T152442Z-1232237395@marudot.com
+DTSTAMP:20141003T190312Z
+UID:20141003T190312Z-2013887915@marudot.com
+DTSTART;TZID="Europe/London":20141107T190000
+DTEND;TZID="Europe/London":20141107T202500
+SUMMARY:A Night at the Cinema in 1914
+DESCRIPTION:Screening as part of Leeds Free Cinema Week…\nAs the Picture House turns 100 we would like to invite you to don your formal attire and join us to experience a night at the cinema 1914 style. This marvellous programme\, compiled by the BFI National Archive\, recreates the glorious miscellany of comedies\, dramas\, travelogues and newsreels which would have constituted a typical night out in 1914. We’ve also invited the wonderful After Hours Quintet to join us for some pre-film entertainment to add to the celebrations as we reflect thankfully on the last 100 years while looking eagerly toward to the next 100.\n\nCountries:    UK\nDirector:    Various\nRunning Time:    85 mins\n\nShowing:\n    Fri 7th Nov\, 2014\, 19:00 @ Hyde Park Picture House - FREE \nTickets: https://www.eventbrite.co.uk/e/a-night-at-the-cinema-in-1914-tickets-13433733659\n\nhttp://www.leedsfilm.com/films/night-cinema-1914/
+LOCATION:Hyde Park Picture House\, 73 Brudenell Road\, Leeds\, LS6 1JD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20141003T190312Z
+UID:20141003T190312Z-1337153595@marudot.com
+DTSTART;TZID="Europe/London":20141107T210000
+DTEND;TZID="Europe/London":20141107T222000
+SUMMARY:A Masque of Madness (Notes on Film 06-B\, Monologue 02)
+DESCRIPTION:A Masque of Madness (Notes on Film 06-B\, Monologue 02) is a surreal experiment that takes clips from over 50 years of Boris Karloff movies and compresses them all into a single feature length film\, seeing Karloff portray over 170 different characters. The result is a schizophrenic horror journey in which Karloff often appears to be having conversations with different versions of himself. At some times Frankenstein’s Monster\, at others Jeckyll and Hyde or even some of his more bizarre roles\, the scenes are expertly cut together by Pfaffenbichler to create rhythmically repetitive set pieces which punctuate the film.\n\nCountries: Austria\nDirector:    Norbert Pfaffenbichler\nYear:    2014\nRunning Time:    80 mins\n\nShowing:\n    Fri 7th Nov\, 2014\, 21:00 @ Leeds Town Hall - Albert Room\n    Wed 12th Nov\, 2014\, 19:00 @ Leeds Town Hall - Albert Room\n\nhttp://www.leedsfilm.com/films/masque-madness-notes-film-06b-monologue-02/
+LOCATION:Albert Room\, Leeds Town Hall\, The Headrow\, Leeds\, LS1 3AD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20141003T190312Z
+UID:20141003T190312Z-1243244726@marudot.com
+DTSTART;TZID="Europe/London":20141109T110000
+DTEND;TZID="Europe/London":20141109T123500
+SUMMARY:Appleseed Alpha
+DESCRIPTION:Based on the comic book by the creator of Ghost in the Shell and from the director of the original Appleseed anime movie comes the intense post-apocalyptic prequel. Left to survive in a post-World War society\, two mercenary soldiers – Deunan and her cyborg partner Briareos – are sent on a mission on the outskirts of their war-torn city. During the operation\, they run into Iris and Olson\, two citizens from the utopian city of Olympus\, who might have a way to save the world but the ruthless Talos and the scheming warlord Two Horns have their own plans.\n\nCountries\n    Japan\, \n    USA\nDirector:\n    Shinji Aramaki\n\nYear:\n    2014\nRunning Time:\n    93 mins\n\nShowing:\n    Thu 9th Oct\, 2014\, 11:00 @ Leeds Town Hall - Victoria Hall\n    Sun 9th Nov\, 2014\, 11:00 @ Leeds Town Hall - Victoria Hall\n\nhttp://www.leedsfilm.com/films/appleseed-alpha/
+LOCATION:Victoria Hall\, Leeds Town Hall\, The Headrow\, Leeds\, LS1 3AD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20141003T190312Z
+UID:20141003T190312Z-1961387400@marudot.com
 DTSTART;TZID="Europe/London":20141112T190000
-DTEND;TZID="Europe/London":20141112T210000
-SUMMARY:A film
-DESCRIPTION:A good film
-LOCATION:Leeds Town Hall
+DTEND;TZID="Europe/London":20141112T202000
+SUMMARY:A Masque of Madness (Notes on Film 06-B\, Monologue 02)
+DESCRIPTION:A Masque of Madness (Notes on Film 06-B\, Monologue 02) is a surreal experiment that takes clips from over 50 years of Boris Karloff movies and compresses them all into a single feature length film\, seeing Karloff portray over 170 different characters. The result is a schizophrenic horror journey in which Karloff often appears to be having conversations with different versions of himself. At some times Frankenstein’s Monster\, at others Jeckyll and Hyde or even some of his more bizarre roles\, the scenes are expertly cut together by Pfaffenbichler to create rhythmically repetitive set pieces which punctuate the film.\n\nCountries: Austria\nDirector:    Norbert Pfaffenbichler\nYear:    2014\nRunning Time:    80 mins\n\nShowing:\n    Fri 7th Nov\, 2014\, 21:00 @ Leeds Town Hall - Albert Room\n    Wed 12th Nov\, 2014\, 19:00 @ Leeds Town Hall - Albert Room\n\nhttp://www.leedsfilm.com/films/masque-madness-notes-film-06b-monologue-02/
+LOCATION:Albert Room\, Leeds Town Hall\, The Headrow\, Leeds\, LS1 3AD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20141003T190312Z
+UID:20141003T190312Z-1961857592@marudot.com
+DTSTART;TZID="Europe/London":20141114T170000
+DTEND;TZID="Europe/London":20141114T183500
+SUMMARY:Alasdair Gray: A Life in Progress
+DESCRIPTION:A Life in Progress is a playful documentary tribute to the unique Scottish renaissance man\, Alasdair Gray: groundbreaking novelist\, mural painter\, notorious drunkard\, irascible interviewee and controversial essayist. Filmed over the course of 15 years\, the film explores the biographical and literary influences behind his great novel Lanark and the development of his artwork from early book illustrations to the Oran Mor Arts Centre’s 21st century Sistine Chapel. The character who emerges is by turns incisive\, chaotic and laugh out loud funny and an outspoken advocate of Scottish independence.\n\nCountries:    UK\nDirector:    Kevin Cameron\nYear:    2013\nRunning Time:    94 mins\n\nShowing:\n    Fri 14th Nov\, 2014\, 17:00 @ Leeds Town Hall - Albert Room\n    Mon 17th Nov\, 2014\, 19:00 @ Leeds Town Hall - Albert Room\n\nhttp://www.leedsfilm.com/films/alasdair-gray-life-progress/
+LOCATION:Albert Room\, Leeds Town Hall\, The Headrow\, Leeds\, LS1 3AD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20141003T190312Z
+UID:20141003T190312Z-711106758@marudot.com
+DTSTART;TZID="Europe/London":20141114T203000
+DTEND;TZID="Europe/London":20141114T222000
+SUMMARY:A Hard Day
+DESCRIPTION:A Hard Day is the must-see Far Eastern action film of the year. On the way back from his mother’s funeral\, special crimes detective Gun-su gets into an accident\, killing a man instantly. To cover up his crime\, he hides the body\ninside his mother’s coffin\, with her inside. A few days later\, Gun-su’s crime pops up on the police database and his partner is heading up the case. Things get worse as his partner slowly uncovers more details of the accident and a witness to the crime threatens his life. ‘This slick\, dynamic\, twist-heavy police thriller combines supercharged suspense with flashes of dark humor.’ – Hollywood Reporter\n\nCountries: South Korea\nDirector: Seong-hoon Kim\nYear: 2014\nRunning Time:111 mins\nAlso Showing on Sat 15th Nov\, 2014\, 20:00 @ Hyde Park Picture House\n\nhttp://www.leedsfilm.com/films/hard-day/\n
+LOCATION:Victoria Hall\, Leeds Town Hall\, The Headrow\, Leeds\, LS1 3AD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20141003T190312Z
+UID:20141003T190312Z-2112747517@marudot.com
+DTSTART;TZID="Europe/London":20141115T140000
+DTEND;TZID="Europe/London":20141115T154000
+SUMMARY:1991: The Year Punk Broke
+DESCRIPTION:The Sex Pistols gave the pop establishment a tremendous\, galvanising shake-up in the late 70s\, but it wasn’t until 1991 that guitar wielding revolutionaries Nirvana and Sonic Youth changed the pop landscape forever. 1991: The Year Punk Broke catches both groups at their most passionate\, just as they reach their explosive peak on a European tour. There are also mighty appearances from Dinosaur Jr. Babes in Toyland and the Ramones\, and treasured footage showing Kurt Cobain enjoying Nirvana’s early success. A glorious time capsule of a very special moment in alternative music.\n\nCountries: USA\nDirector: Dave Markey\nYear: 1992\nRunning Time: 99 mins\n\nhttp://www.leedsfilm.com/films/1991-year-punk-broke/
+LOCATION:Victoria Hall\, Leeds Town Hall\, The Headrow\, Leeds\, LS1 3AD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20141003T190312Z
+UID:20141003T190312Z-1868636351@marudot.com
+DTSTART;TZID="Europe/London":20141115T200000
+DTEND;TZID="Europe/London":20141115T215000
+SUMMARY:A Hard Day
+DESCRIPTION:A Hard Day is the must-see Far Eastern action film of the year. On the way back from his mother’s funeral\, special crimes detective Gun-su gets into an accident\, killing a man instantly. To cover up his crime\, he hides the body\ninside his mother’s coffin\, with her inside. A few days later\, Gun-su’s crime pops up on the police database and his partner is heading up the case. Things get worse as his partner slowly uncovers more details of the accident and a witness to the crime threatens his life. ‘This slick\, dynamic\, twist-heavy police thriller combines supercharged suspense with flashes of dark humor.’ – Hollywood Reporter\n\nCountries: South Korea\nDirector: Seong-hoon Kim\nYear: 2014\nRunning Time:111 mins\nAlso Showing on Fri 14th Nov\, 2014\, 20:30 @ Leeds Town Hall - Victoria Hall\n\nhttp://www.leedsfilm.com/films/hard-day/\n
+LOCATION:Hyde Park Picture House\, 73 Brudenell Road\, Leeds\, LS6 1JD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20141003T190312Z
+UID:20141003T190312Z-431499921@marudot.com
+DTSTART;TZID="Europe/London":20141116T184500
+DTEND;TZID="Europe/London":20141116T202000
+SUMMARY:Alleluia
+DESCRIPTION:Based loosely on the true story of the 1940s ‘lonely hearts killers’\, Du Welz (The Ordeal\, LIFF 2004) relocates the story to present day Ardennes\, where lonely Gloria falls in love with Michel after only one date\, only to find that he is a con artist who seduces widows and steals their money. Determined not to lose him she makes him promise never to leave her and even agrees to support his scams but soon her jealousy becomes uncontrollable to the point of murder. Michel is shocked by her actions but bound by some powerful connection\, they continue onwards into a downward spiral of destruction.\n\nCountries    Belgium\,     France\nDirector:    Fabrice Du Welz\nYear:    2014\nRunning Time:    93 mins\n\nShowing:\n    Sun 16th Nov\, 2014\, 18:45 @ Hyde Park Picture House\n\nhttp://www.leedsfilm.com/films/alleluia/
+LOCATION:Hyde Park Picture House\, 73 Brudenell Road\, Leeds\, LS6 1JD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20141003T190312Z
+UID:20141003T190312Z-1913101063@marudot.com
+DTSTART;TZID="Europe/London":20141117T190000
+DTEND;TZID="Europe/London":20141117T203500
+SUMMARY:Alasdair Gray: A Life in Progress
+DESCRIPTION:A Life in Progress is a playful documentary tribute to the unique Scottish renaissance man\, Alasdair Gray: groundbreaking novelist\, mural painter\, notorious drunkard\, irascible interviewee and controversial essayist. Filmed over the course of 15 years\, the film explores the biographical and literary influences behind his great novel Lanark and the development of his artwork from early book illustrations to the Oran Mor Arts Centre’s 21st century Sistine Chapel. The character who emerges is by turns incisive\, chaotic and laugh out loud funny and an outspoken advocate of Scottish independence.\n\nCountries:    UK\nDirector:    Kevin Cameron\nYear:    2013\nRunning Time:    94 mins\n\nShowing:\n    Fri 14th Nov\, 2014\, 17:00 @ Leeds Town Hall - Albert Room\n    Mon 17th Nov\, 2014\, 19:00 @ Leeds Town Hall - Albert Room\n\nhttp://www.leedsfilm.com/films/alasdair-gray-life-progress/
+LOCATION:Albert Room\, Leeds Town Hall\, The Headrow\, Leeds\, LS1 3AD
 END:VEVENT
 END:VCALENDAR
